@@ -1,0 +1,34 @@
+body
+{
+	background-image: url("silhouette artt.webp");
+	background-size: 1300px;
+}
+
+#output
+{
+background: rgb(213, 203, 255);
+border-radius: 10px;
+border-top: 10px solid #0d057d;
+padding: 10px;
+float: none;
+text-align: left;
+width: 500px;
+}
+
+#num1
+{
+	width: 500px;
+}
+
+#num2
+{
+	width: 500px;
+}
+
+h4{
+	color: white;
+}
+
+span{
+	color: white;
+}
